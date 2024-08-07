@@ -1,0 +1,54 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "David Cyril",
+    "theme": "QUEEN_ANITA-V2",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",  
+    "STRINGS": { 
+        "updater": { 
+            "UPDATE": "Bot is up to date.",
+            "UPDATED_LOCAL": "Updated Bot successfully"
+        },  
+        "global": {      
+            "botName": "QUEEN_ANITA-V2",
+            "body": "Simple WhatsApp Bot", 
+            "greet2" : "GoodDay SIR",
+            "pic1": "https://i.imgur.com/EBUvKfB.jpeg", 
+            "pic2": "https://i.imgur.com/EBUvKfB.jpeg", 
+            "pic3": "https://i.imgur.com/EBUvKfB.jpeg", 
+            "pic4": "https://i.imgur.com/EBUvKfB.jpeg", 
+            "pic5": "https://i.imgur.com/EBUvKfB.jpeg", 
+            "pic6": "https://i.imgur.com/EBUvKfB.jpeg", 
+            "pic7": "https://i.imgur.com/EBUvKfB.jpeg",
+            "greet" : "Hey there",
+            "dotbody" : "Oh Sir David My Creator.",
+            "emojii" : "🍑", 
+            "promote": "Anita is an Admin",
+            "pmallow": "Hello &user Do not Spam",
+            "permited": "Hello Sir you Can Message Me Now.", 
+            "revoked" : "Hello sir your Permission was rejected.",
+            "demote": "Admin Role Taken back",
+            "antlink": "Link Detected.\n*I Have rremoved the violator*",
+            "session": "\n kepp your session id safe sir",
+            "mention": "Tag my owner",
+            "title": "QUEEN_ANITA-V2",
+            "footer": "QUEEN_ANITA-V2",
+            "by": "Made by David Cyril",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+            "couple_male": "*I'm pretty sure I can't live without being helped!*",
+            "couple_female": "*I'm pretty sure I can't live without being helped!*",
+            "admin": "Only Group Admin can use this Command.",
+            "botAdmin": "Make me an Admin to take action.",
+            "owner": "It's for my owner only.",
+            "group": "It's for group only.",
+            "private": "It for my Owner only.",
+            "bot": "It is for my Owner Only.",
+            "wait": "Processing..."
+        },
+        "error": {
+            "text": "Dont touch me."
+        }
+    } 
+  }
